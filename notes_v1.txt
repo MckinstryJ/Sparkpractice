@@ -1,0 +1,27 @@
+### Training ###
+
+# Beginner Tutorial
+https://www.youtube.com/watch?v=zC9cnh8rJd0
+
+# Advanced Tutorial
+https://www.youtube.com/watch?v=7ooZ4S7Ay6Y
+
+### Notes ###
+
+# To start spark shell
+C:/Spark/spark-3.1.1-bin-hadoop2.7/bin/spark-shell
+
+# Web UI
+localhost:4040
+
+- Resource Manager
+    - YARN
+- Spark was created to test MESOS
+    - Runs on RAM instead on HD (Hadoop)
+    - Apache picked it up in 2012
+    - An improvement on top of Hadoop
+    - Spark court is the lowest level
+    - 4 major languages supported (Scala, Python, Java, R)
+
+Current Place:
+https://youtu.be/zC9cnh8rJd0?t=1545
